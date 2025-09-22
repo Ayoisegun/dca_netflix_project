@@ -1,0 +1,1 @@
+0 0 * * * bash app/run_pipeline.sh
