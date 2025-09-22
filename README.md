@@ -66,7 +66,7 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/Ayoisegun/dca_netflix_project
-cd netflix-analysis
+cd dca_netflix_project
 ```
 
 ---
